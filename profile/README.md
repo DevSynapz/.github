@@ -46,6 +46,6 @@ We aim to create a synapse between developers, AI, and real-world problem solvin
 
 ---
 
-[`AiVerse ↗`](https://aiverse.frozenn.in) • [`Email ↗`](mailto:devsynapz@gmail.com) • [`GitHub ↗`](https://github.com/DevSynapz)
+[`AiVerse ↗`](https://aiverse.frozenn.in) • [`Email ↗`](mailto:devsynapz@gmail.com) • [`GitHub ↗`](https://github.com/DevSynapz) • 💬 [`Discord ↗`](https://discord.gg/xZ4UkzAB3E)
 
 **⚡ Code. Connect. Evolve.**
